@@ -1,0 +1,6 @@
+framework module Pods_TestApp_WAIT {
+  umbrella header "Pods-TestApp_WAIT-umbrella.h"
+
+  export *
+  module * { export * }
+}
