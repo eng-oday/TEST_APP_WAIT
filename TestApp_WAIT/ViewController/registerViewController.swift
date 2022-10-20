@@ -24,6 +24,7 @@ class registerViewController: UIViewController {
     @IBOutlet weak var keyboardHeightLayoutConstraint: NSLayoutConstraint!
     @IBOutlet weak var scrollVew: UIScrollView!
     
+    //new comment for test
     
     var flagForImage                    = false
     var falgTocallService               = true
